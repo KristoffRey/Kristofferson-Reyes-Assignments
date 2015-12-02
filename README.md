@@ -45,3 +45,6 @@ This repository gives a list of the assignments that I have accomplished along w
 
 14. helloworldapp-KristoffRey
       https://github.com/DeLaSalleUniversity-Manila/helloworldapp-KristoffRey
+
+15. helpactivitydemo-KristoffRey
+      https://github.com/DeLaSalleUniversity-Manila/helpactivitydemo-KristoffRey
