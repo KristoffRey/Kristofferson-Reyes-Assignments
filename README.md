@@ -48,3 +48,6 @@ This repository gives a list of the assignments that I have accomplished along w
 
 15. helpactivitydemo-KristoffRey
       https://github.com/DeLaSalleUniversity-Manila/helpactivitydemo-KristoffRey
+
+16. opencvimagemanipulations-KristoffRey
+      https://github.com/DeLaSalleUniversity-Manila/opencvimagemanipulations-KristoffRey
